@@ -31,10 +31,10 @@
         <hr>
     </div>
     <div class="post-content">
-        <h1 id="topic><a href="https://whitelonely.github.io/2020/02/24/test-blog/" class="headerlink" title="media test"></a>测试内容<h1><h2>该博客文章用于测试视频、音频播放相关的内容</h2>
+        <h1 id="topic><a href="https://whitelonely.github.io/2020/02/24/test-blog/" class="headerlink" title="��������"></a>测试内容<h1><p>该博客文章用于测试视频、音频播放相关的内容</p>
 <a id="more"></a>
 
-<h3>测试1：</h3>    <h4>音频播放：<br>    （主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接）</h4>
+<p>测试1.<br>    音频播放：<br>    （主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接）</p>
 
         <div id="aplayer-ySIFoixA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
@@ -57,8 +57,8 @@
           window.aplayers.push(ap);
         </script>
 
-<h3>测试2：</h3>    <h4>视频播放：<br>    （主要采用加载本地视频的方式，并非视频网站上视频的链接）</h4>
-<video src="周杰伦 - 说好不哭(卡拉OK版).mp4">周杰伦 - 说好不哭(卡拉OK版)</video>
+<p>测试2.<br>    视频播放：<br>    （主要采用加载本地视频的方式，并非视频网站上视频的链接）</p>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><p>no url specified, no dplayer _(:3」∠)_</p>
     </div>
     
         <hr class="fhr">
@@ -66,7 +66,7 @@
     
 </div>
     <div class="footer" id="footer">
-    <p>Copyright © 2020 whitelonely
+    <p>Copyright © 2020 
         <label class="el-switch el-switch-green el-switch-sm" style="vertical-align: sub;">
             <input type="checkbox" name="switch" id="update_style">
             <span class="el-switch-style"></span>
