@@ -8,12 +8,12 @@
 
 <p>测试1.<br>    音频播放：<br>    主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
 
-        <div id="aplayer-xbERkGsV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ffIpINOw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-xbERkGsV"),
+            element: document.getElementById("aplayer-ffIpINOw"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -29,18 +29,22 @@
           window.aplayers.push(ap);
         </script>
 
-<p>测试2.<br>    视频播放：<br>    主要采用加载本地视频的方式，并非视频网站上视频的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）</p>
-<div style="text-align:center"> 
-            <button onclick="playPause()">播放/暂停</button> 
-            <button onclick="makeBig()">放大</button>
-            <button onclick="makeSmall()">缩小</button>
-            <button onclick="makeNormal()">普通</button>
-            <br> 
-            <video id="video1" width="420">
-                <source src="周杰伦 - 说好不哭(卡拉OK版).mp4" type="video/mp4">
-            </video>
-        </div> 
-]]></content>
+<p>测试2.<br>    视频播放：<br>    主要采用加载本地视频的方式，并非视频网站上视频的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）<br>            <div style="text-align:center"><br>            <button onclick="playPause()">播放/暂停</button><br>            <button onclick="makeBig()">放大</button><br>            <button onclick="makeSmall()">缩小</button><br>            <button onclick="makeNormal()">普通</button><br>            <br><br>            <video id="video1" width="420"><br>                <source src="周杰伦 - 说好不哭(卡拉OK版).mp4" type="video/mp4"><br>            </video><br>        </div><br>        <script><br>            var myVideo=document.getElementById("video1");<br>            function playPause()<br>            {<br>                if (myVideo.paused)<br>                    myVideo.play();<br>                else<br>                    myVideo.pause();<br>            } </p>
+<pre><code>    function makeBig()
+    { 
+        myVideo.width=560; 
+    } 
+
+    function makeSmall()
+    { 
+        myVideo.width=320; 
+    } 
+
+    function makeNormal()
+    { 
+        myVideo.width=420; 
+    } 
+&lt;/script&gt;</code></pre>]]></content>
       <tags>
         <tag>测试</tag>
         <tag>视频</tag>
