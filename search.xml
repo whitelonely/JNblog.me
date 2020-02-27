@@ -6,14 +6,14 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h1><p>该博客文章用于测试视频、音频播放相关的内容</p>
 <a id="more"></a>
 
-<p>测试1.<br>    音频播放：<br>    目前采用链接形式进行播放！加载本地音乐的方式正在摸索中……<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
+<p>测试1.<br>    音频播放：<br>    目前采用链接形式进行播放（所用链接为上传至Leancloud生成的链接）！加载本地音乐的方式正在摸索中……<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
 
-        <div id="aplayer-GGaDaYUU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BxUxrCSJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GGaDaYUU"),
+            element: document.getElementById("aplayer-BxUxrCSJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -21,7 +21,7 @@
               title: "LUV(Remix inst.)",
               author: "Apink",
               url: "http://lc-3HMd1AgG.cn-n1.lcfile.com/8eae99fbc2ffb76bd92f/Apink%20-%20LUV%28Remix%20inst.%29.mp3",
-              pic: "https://xxx.xxx.com/xx.png",
+              pic: "http://lc-3HMd1AgG.cn-n1.lcfile.com/9060dff071fa146e6cea/Apink_Luv.jpg",
               lrc: ""
             }
           });
@@ -29,7 +29,7 @@
           window.aplayers.push(ap);
         </script>
 
-<p>测试2.<br>    视频播放：<br>    目前采用链接形式进行播放！加载本地视频的方式正在摸索中……<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）</p>
+<p>测试2.<br>    视频播放：<br>    目前采用链接形式进行播放（所用链接为上传至Leancloud生成的链接）！加载本地视频的方式正在摸索中……<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）</p>
 <div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"http://lc-3HMd1AgG.cn-n1.lcfile.com/d28d84a5c739b0b97ea8/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%93%AD%28%E5%8D%A1%E6%8B%89OK%E7%89%88%29.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
       <tags>
         <tag>测试</tag>
