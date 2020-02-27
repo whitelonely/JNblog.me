@@ -8,12 +8,12 @@
 
 <p>测试1.<br>    音频播放：<br>    主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
 
-        <div id="aplayer-lYxfiXcT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-xbERkGsV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-lYxfiXcT"),
+            element: document.getElementById("aplayer-xbERkGsV"),
             narrow: false,
             autoplay: false,
             showlrc: false,
