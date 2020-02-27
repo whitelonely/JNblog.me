@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>whitelonely的git博客</title>
+  <icon>https://www.gravatar.com/avatar/2c580c2670ab5cb71c09f0bbd2ff8f1c</icon>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T01:24:25.349Z</updated>
+  <updated>2020-02-27T02:47:13.550Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
     <name>John Doe</name>
-    
+    <email>JNwhitelonely@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test-blog(video &amp; audio)</title>
+    <title>Test-Blog(Video &amp; Audio)</title>
     <link href="http://yoursite.com/2020/02/24/test-blog/"/>
     <id>http://yoursite.com/2020/02/24/test-blog/</id>
     <published>2020-02-24T10:27:51.000Z</published>
-    <updated>2020-02-27T01:24:25.349Z</updated>
+    <updated>2020-02-27T02:47:13.550Z</updated>
     
     <summary type="html">
     
-      �ò����������ڲ�����Ƶ����Ƶ�������
+      该博客文章用于测试视频、音频相关内容
     
     </summary>
     
     
     
-      <category term="����" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="��Ƶ" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BDZ/"/>
+      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
+    
+      <category term="音频" scheme="http://yoursite.com/tags/%E9%9F%B3%E9%A2%91/"/>
     
       <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
@@ -48,7 +50,7 @@
     <link href="http://yoursite.com/2020/02/24/hello-world/"/>
     <id>http://yoursite.com/2020/02/24/hello-world/</id>
     <published>2020-02-24T04:49:13.139Z</published>
-    <updated>2020-02-24T04:49:13.140Z</updated>
+    <updated>2020-02-27T02:44:28.851Z</updated>
     
     <summary type="html">
     

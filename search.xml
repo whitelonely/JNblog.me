@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test-blog(video &amp; audio)</title>
+    <title>Test-Blog(Video &amp; Audio)</title>
     <url>/2020/02/24/test-blog/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="��������"><a href="#��������" class="headerlink" title="��������"></a>��������</h1><p>�ò����������ڲ�����Ƶ����Ƶ������ص�����</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h1><p>该博客文章用于测试视频、音频播放相关的内容</p>
 <a id="more"></a>
 
-<p>����1.<br>    ��Ƶ���ţ�<br>    ����Ҫ���ü��ر������ֵķ�ʽ������������վ�ϸ��������ӣ�</p>
+<p>测试1.<br>    音频播放：<br>    主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
 
-        <div id="aplayer-VXDYsgeA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-xlRrFDDL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-VXDYsgeA"),
+            element: document.getElementById("aplayer-xlRrFDDL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -29,20 +29,21 @@
           window.aplayers.push(ap);
         </script>
 
-<p>����2.<br>    ��Ƶ���ţ�<br>    ����Ҫ���ü��ر�����Ƶ�ķ�ʽ��������Ƶ��վ����Ƶ�����ӣ�</p>
+<p>测试2.<br>    视频播放：<br>    主要采用加载本地视频的方式，并非视频网站上视频的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）</p>
 <div style="text-align:center"> 
-            <button onclick="playPause()">����/��ͣ</button> 
-            <button onclick="makeBig()">�Ŵ�</button>
-            <button onclick="makeSmall()">��С</button>
-            <button onclick="makeNormal()">��ͨ</button>
+            <button onclick="playPause()">播放/暂停</button> 
+            <button onclick="makeBig()">放大</button>
+            <button onclick="makeSmall()">缩小</button>
+            <button onclick="makeNormal()">普通</button>
             <br> 
             <video id="video1" width="420">
-                <source src="�ܽ��� - ˵�ò���(����OK��).mp4" type="video/mp4">
+                <source src="周杰伦 - 说好不哭(卡拉OK版).mp4" type="video/mp4">
             </video>
         </div> ]]></content>
       <tags>
-        <tag>����</tag>
-        <tag>��Ƶ</tag>
+        <tag>测试</tag>
+        <tag>视频</tag>
+        <tag>音频</tag>
         <tag>test</tag>
         <tag>video</tag>
         <tag>audio</tag>
@@ -51,7 +52,7 @@
   <entry>
     <title>Hello World</title>
     <url>/2020/02/24/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>��ӭ���� <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! �ҵĵ�һƪ����. ��� <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> �鿴������Ϣ. �������뵽 <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> ������ <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>该博客文章为本人的第一篇blog文章，内容来自 hexo 的 “Hello World”文章，仅为测试所用。</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
