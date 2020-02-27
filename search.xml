@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>test-blog(video &amp; audio)</title>
+    <url>/2020/02/24/test-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="��������"><a href="#��������" class="headerlink" title="��������"></a>��������</h1><p>�ò����������ڲ�����Ƶ����Ƶ������ص�����</p>
+<a id="more"></a>
+
+<p>����1.<br>    ��Ƶ���ţ�<br>    ����Ҫ���ü��ر������ֵķ�ʽ������������վ�ϸ��������ӣ�</p>
+
+        <div id="aplayer-VXDYsgeA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-VXDYsgeA"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "LUV(Remix inst.)",
+              author: "Apink",
+              url: "Apink - LUV(Remix inst.).mp3",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+<p>����2.<br>    ��Ƶ���ţ�<br>    ����Ҫ���ü��ر�����Ƶ�ķ�ʽ��������Ƶ��վ����Ƶ�����ӣ�</p>
+<div style="text-align:center"> 
+            <button onclick="playPause()">����/��ͣ</button> 
+            <button onclick="makeBig()">�Ŵ�</button>
+            <button onclick="makeSmall()">��С</button>
+            <button onclick="makeNormal()">��ͨ</button>
+            <br> 
+            <video id="video1" width="420">
+                <source src="�ܽ��� - ˵�ò���(����OK��).mp4" type="video/mp4">
+            </video>
+        </div> ]]></content>
+      <tags>
+        <tag>����</tag>
+        <tag>��Ƶ</tag>
+        <tag>test</tag>
+        <tag>video</tag>
+        <tag>audio</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/02/24/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>��ӭ���� <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! �ҵĵ�һƪ����. ��� <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> �鿴������Ϣ. �������뵽 <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> ������ <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
