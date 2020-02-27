@@ -28,7 +28,7 @@
 <link rel="alternate" href="/atom.xml" title="whitelonely的git博客" type="application/atom+xml">
 <link rel="stylesheet" href="\assets\css\APlayer.min.css" class="aplayer-style-marker">
 <script src="\assets\js\APlayer.min.js" class="aplayer-script-marker"></script>
-</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/DPlayer.min.css"><script src="/assets/js/DPlayer.min.js"></script></head>
 
 </html>
 
@@ -64,7 +64,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">223字</span>
+            <span class="post-count">262字</span>
         </span>
     </span>
 
@@ -103,22 +103,22 @@
       <h1 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h1><p>该博客文章用于测试视频、音频播放相关的内容</p>
 <a id="more"></a>
 
-<p>测试1.<br>    音频播放：<br>    主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
+<p>测试1.<br>    音频播放：<br>    目前采用链接形式进行播放！加载本地音乐的方式正在摸索中……<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
 
-        <div id="aplayer-ffIpINOw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GGaDaYUU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ffIpINOw"),
+            element: document.getElementById("aplayer-GGaDaYUU"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
               title: "LUV(Remix inst.)",
               author: "Apink",
-              url: "Apink - LUV(Remix inst.).mp3",
-              pic: "",
+              url: "http://lc-3HMd1AgG.cn-n1.lcfile.com/8eae99fbc2ffb76bd92f/Apink%20-%20LUV%28Remix%20inst.%29.mp3",
+              pic: "https://xxx.xxx.com/xx.png",
               lrc: ""
             }
           });
@@ -126,22 +126,8 @@
           window.aplayers.push(ap);
         </script>
 
-<p>测试2.<br>    视频播放：<br>    主要采用加载本地视频的方式，并非视频网站上视频的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）<br>            <div style="text-align:center"><br>            <button onclick="playPause()">播放/暂停</button><br>            <button onclick="makeBig()">放大</button><br>            <button onclick="makeSmall()">缩小</button><br>            <button onclick="makeNormal()">普通</button><br>            <br><br>            <video id="video1" width="420"><br>                <source src="周杰伦 - 说好不哭(卡拉OK版).mp4" type="video/mp4"><br>            </video><br>        </div><br>        <script><br>            var myVideo=document.getElementById("video1");<br>            function playPause()<br>            {<br>                if (myVideo.paused)<br>                    myVideo.play();<br>                else<br>                    myVideo.pause();<br>            } </p>
-<pre><code>    function makeBig()
-    { 
-        myVideo.width=560; 
-    } 
-
-    function makeSmall()
-    { 
-        myVideo.width=320; 
-    } 
-
-    function makeNormal()
-    { 
-        myVideo.width=420; 
-    } 
-&lt;/script&gt;</code></pre>
+<p>测试2.<br>    视频播放：<br>    目前采用链接形式进行播放！加载本地视频的方式正在摸索中……<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再观看！）</p>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"http://lc-3HMd1AgG.cn-n1.lcfile.com/d28d84a5c739b0b97ea8/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%93%AD%28%E5%8D%A1%E6%8B%89OK%E7%89%88%29.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
       
       <!-- reward -->
       
