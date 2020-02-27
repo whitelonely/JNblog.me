@@ -8,12 +8,12 @@
 
 <p>测试1.<br>    音频播放：<br>    主要采用加载本地音乐的方式，并非音乐网站上歌曲的链接<br>    （由于github服务器在国外，所以延迟很大、加载很慢，建议缓冲后再试听！）</p>
 
-        <div id="aplayer-xlRrFDDL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lYxfiXcT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-xlRrFDDL"),
+            element: document.getElementById("aplayer-lYxfiXcT"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -39,7 +39,8 @@
             <video id="video1" width="420">
                 <source src="周杰伦 - 说好不哭(卡拉OK版).mp4" type="video/mp4">
             </video>
-        </div> ]]></content>
+        </div> 
+]]></content>
       <tags>
         <tag>测试</tag>
         <tag>视频</tag>
@@ -53,6 +54,8 @@
     <title>Hello World</title>
     <url>/2020/02/24/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>该博客文章为本人的第一篇blog文章，内容来自 hexo 的 “Hello World”文章，仅为测试所用。</p>
+<a id="more"></a>
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
