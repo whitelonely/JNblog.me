@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-28T15:44:31.007Z</updated>
+  <updated>2020-02-29T05:15:41.583Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://yoursite.com/2020/02/28/%E7%94%A8eclipse%E7%BC%96%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AAJava%E7%A8%8B%E5%BA%8F%EF%BC%9A%E2%80%9C%E2%80%9CHello%20World%E2%80%9D/"/>
     <id>http://yoursite.com/2020/02/28/%E7%94%A8eclipse%E7%BC%96%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AAJava%E7%A8%8B%E5%BA%8F%EF%BC%9A%E2%80%9C%E2%80%9CHello%20World%E2%80%9D/</id>
     <published>2020-02-28T13:01:46.000Z</published>
-    <updated>2020-02-28T15:44:31.007Z</updated>
+    <updated>2020-02-29T05:15:41.583Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;本文内容：用eclipse编写第一个Java程序：“Hello World”&lt;/p&gt;
 &lt;p&gt;所用eclipse版本：eclipse-java-2019-12-R-win32-x86_64&lt;/p&gt;
-&lt;p&gt;（PS：本文主要讲述eclipse编写程序的过程，前期工作（如JDK安装，Java环境配置(可到友链：&lt;a href=&quot;https://pengkk27.github.io/2020/02/22/JDK%E5%AE%89%E8%A3%85/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pengkk27.github.io/2020/02/22/JDK%E5%AE%89%E8%A3%85/&lt;/a&gt; 中进行学习操作)以及eclipse的安装过程）本文不涉及！）&lt;/p&gt;
+&lt;p&gt;（PS：本文主要讲述eclipse编写程序的过程，前期工作，如JDK安装，Java环境配置&lt;br&gt;(可到友链：&lt;a href=&quot;https://pengkk27.github.io/2020/02/22/JDK%E5%AE%89%E8%A3%85/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;pengkk27的博客文章：“JDK安装”&lt;/a&gt; 中进行学习操作)以及eclipse的安装过程，本文不涉及！）&lt;/p&gt;
     
     </summary>
     
@@ -46,16 +46,16 @@
   </entry>
   
   <entry>
-    <title>Java小技巧 之 代码自动提示和补全设置</title>
-    <link href="http://yoursite.com/2020/02/28/Java%E5%B0%8F%E6%8A%80%E5%B7%A7%20%E4%B9%8B%20%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%8F%90%E7%A4%BA%E5%92%8C%E8%A1%A5%E5%85%A8%E8%AE%BE%E7%BD%AE/"/>
-    <id>http://yoursite.com/2020/02/28/Java%E5%B0%8F%E6%8A%80%E5%B7%A7%20%E4%B9%8B%20%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%8F%90%E7%A4%BA%E5%92%8C%E8%A1%A5%E5%85%A8%E8%AE%BE%E7%BD%AE/</id>
+    <title>eclipse小技巧 之 代码自动提示和补全设置</title>
+    <link href="http://yoursite.com/2020/02/28/eclipse%E5%B0%8F%E6%8A%80%E5%B7%A7%20%E4%B9%8B%20%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%8F%90%E7%A4%BA%E5%92%8C%E8%A1%A5%E5%85%A8%E8%AE%BE%E7%BD%AE/"/>
+    <id>http://yoursite.com/2020/02/28/eclipse%E5%B0%8F%E6%8A%80%E5%B7%A7%20%E4%B9%8B%20%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%8F%90%E7%A4%BA%E5%92%8C%E8%A1%A5%E5%85%A8%E8%AE%BE%E7%BD%AE/</id>
     <published>2020-02-28T02:50:45.000Z</published>
-    <updated>2020-02-28T06:18:24.350Z</updated>
+    <updated>2020-02-29T05:32:23.839Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;本文内容：eclipse小技巧 之 Java代码自动提示和补全设置&lt;/p&gt;
-&lt;p&gt;本文讲述的 Java 相关内容所使用的软件为“eclipse”（eclipse-java-2019-12-R-win32-x86_64）。&lt;/p&gt;
+&lt;p&gt;本文讲述的内容所使用的软件为“eclipse”（eclipse-java-2019-12-R-win32-x86_64）。&lt;/p&gt;
     
     </summary>
     
@@ -76,7 +76,7 @@
     <link href="http://yoursite.com/2020/02/24/test-blog/"/>
     <id>http://yoursite.com/2020/02/24/test-blog/</id>
     <published>2020-02-24T10:27:51.000Z</published>
-    <updated>2020-02-27T11:35:32.875Z</updated>
+    <updated>2020-02-29T05:25:24.352Z</updated>
     
     <summary type="html">
     
@@ -105,7 +105,7 @@
     <link href="http://yoursite.com/2020/02/24/hello-world/"/>
     <id>http://yoursite.com/2020/02/24/hello-world/</id>
     <published>2020-02-24T04:49:13.139Z</published>
-    <updated>2020-02-27T02:52:49.411Z</updated>
+    <updated>2020-02-29T04:55:26.301Z</updated>
     
     <summary type="html">
     
