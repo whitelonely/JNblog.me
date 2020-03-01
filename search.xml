@@ -5,7 +5,7 @@
     <url>/2020/02/28/%E7%94%A8eclipse%E7%BC%96%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AAJava%E7%A8%8B%E5%BA%8F%EF%BC%9A%E2%80%9C%E2%80%9CHello%20World%E2%80%9D/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本文内容：用eclipse编写第一个Java程序：“Hello World”</p>
 <p>所用eclipse版本：eclipse-java-2019-12-R-win32-x86_64</p>
-<p>（PS：本文主要讲述eclipse编写程序的过程，前期工作，如JDK安装，Java环境配置<br>(可到友链：<a href="https://pengkk27.github.io/2020/02/22/JDK%E5%AE%89%E8%A3%85/" target="_blank" rel="noopener">pengkk27的博客文章：“JDK安装”</a> 中进行学习操作)以及eclipse的安装过程，本文不涉及！）</p>
+<p>（PS：本文主要讲述eclipse编写程序的过程，前期工作，如JDK安装，Java环境配置<br>(可到友链：<a href="https://pengkk27.github.io/2020/03/01/JDK%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE/" target="_blank" rel="noopener">pengkk27的博客文章：“JDK安装及配置”</a> 中进行学习操作)以及eclipse的安装过程，本文不涉及！）</p>
 <a id="more"></a>
 
 
@@ -82,12 +82,12 @@
 
 <h2 id="测试1："><a href="#测试1：" class="headerlink" title="测试1："></a>测试1：</h2><h3 id="音频播放："><a href="#音频播放：" class="headerlink" title="音频播放："></a>音频播放：</h3><p>目前采用链接形式进行播放！<br>（所用链接为上传至Leancloud生成的链接，第一首歌曲上传至LeanCloud中国，第二首LeanCloud国际(US)）<br>加载本地音乐的方式正在摸索中……</p>
 
-        <div id="aplayer-CkPinKAR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-bZElJXyr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-CkPinKAR"),
+            element: document.getElementById("aplayer-bZElJXyr"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -104,17 +104,17 @@
         </script>
 
 
-        <div id="aplayer-yiaLCEgW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-sWotRBdM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yiaLCEgW"),
+            element: document.getElementById("aplayer-sWotRBdM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "- Because of you (inst.)",
+              title: "Because of you (inst.)",
               author: "After School",
               url: "https://lc-gluttony.s3.amazonaws.com/FbhjgwdewfeU/0f0f02840e6736c4e4bd/After%20School%20-%20Because%20of%20you%20%5Binst.%5D.mp3",
               pic: "https://lc-gluttony.s3.amazonaws.com/FbhjgwdewfeU/bbbb725c804635457761/After%20School.jpg",
