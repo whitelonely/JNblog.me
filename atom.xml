@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-01T06:45:33.102Z</updated>
+  <updated>2020-03-06T10:16:57.116Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JN_Fansub_Group</title>
+    <link href="http://yoursite.com/2020/03/06/JN-Fansub-Group/"/>
+    <id>http://yoursite.com/2020/03/06/JN-Fansub-Group/</id>
+    <published>2020-03-06T09:17:57.000Z</published>
+    <updated>2020-03-06T10:16:57.116Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;此文章属于“JN音乐MV”板块下的文章，主要用于发布“JN音乐MV”（“JN字幕组”）的相关字幕作品！&quot;&gt;&lt;a href=&quot;#此文章属于“JN音乐MV”板块下的文章，主要用于发布“JN音乐MV”（“JN字幕组”）的相关字幕作品！&quot; class=&quot;headerlink&quot; title=&quot;此文章属于“JN音乐MV”板块下的文章，主要用于发布“JN音乐MV”（“JN字幕组”）的相关字幕作品！&quot;&gt;&lt;/a&gt;此文章属于“JN音乐MV”板块下的文章，主要用于发布“JN音乐MV”（“JN字幕组”）的相关字幕作品！&lt;/h1&gt;&lt;h2 id=&quot;脸红的思春期-Workaholic（工作狂）字幕版（JN字幕组）&quot;&gt;&lt;a href=&quot;#脸红的思春期-Workaholic（工作狂）字幕版（JN字幕组）&quot; class=&quot;headerlink&quot; title=&quot;脸红的思春期 - Workaholic（工作狂）字幕版（JN字幕组）&quot;&gt;&lt;/a&gt;脸红的思春期 - Workaholic（工作狂）字幕版（JN字幕组）&lt;/h2&gt;&lt;p&gt;2019年10月，脸红的思春期（BOL4）发行了专辑《Two Five》，其中的一首《workaholic（工作狂）》博主本人也是很喜欢的，所以博主在专辑发布之后对该曲的MV制作了“字幕版MV”视频。在此奉上相关字幕版MV视频。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JN音乐MV" scheme="http://yoursite.com/categories/JN%E9%9F%B3%E4%B9%90MV/"/>
+    
+      <category term="JN字幕组" scheme="http://yoursite.com/categories/JN%E5%AD%97%E5%B9%95%E7%BB%84/"/>
+    
+      <category term="脸红的思春期" scheme="http://yoursite.com/categories/%E8%84%B8%E7%BA%A2%E7%9A%84%E6%80%9D%E6%98%A5%E6%9C%9F/"/>
+    
+      <category term="Workaholic" scheme="http://yoursite.com/categories/Workaholic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>用eclipse编写第一个Java程序：“Hello World”</title>
