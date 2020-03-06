@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-06T10:16:57.116Z</updated>
+  <updated>2020-03-06T10:27:36.931Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/03/06/JN-Fansub-Group/"/>
     <id>http://yoursite.com/2020/03/06/JN-Fansub-Group/</id>
     <published>2020-03-06T09:17:57.000Z</published>
-    <updated>2020-03-06T10:16:57.116Z</updated>
+    <updated>2020-03-06T10:27:36.931Z</updated>
     
     <summary type="html">
     
@@ -36,8 +36,16 @@
     
       <category term="脸红的思春期" scheme="http://yoursite.com/categories/%E8%84%B8%E7%BA%A2%E7%9A%84%E6%80%9D%E6%98%A5%E6%9C%9F/"/>
     
-      <category term="Workaholic" scheme="http://yoursite.com/categories/Workaholic/"/>
+      <category term="workaholic" scheme="http://yoursite.com/categories/workaholic/"/>
     
+    
+      <category term="workaholic" scheme="http://yoursite.com/tags/workaholic/"/>
+    
+      <category term="脸红的思春期" scheme="http://yoursite.com/tags/%E8%84%B8%E7%BA%A2%E7%9A%84%E6%80%9D%E6%98%A5%E6%9C%9F/"/>
+    
+      <category term="JN字幕组" scheme="http://yoursite.com/tags/JN%E5%AD%97%E5%B9%95%E7%BB%84/"/>
+    
+      <category term="JN音乐MV" scheme="http://yoursite.com/tags/JN%E9%9F%B3%E4%B9%90MV/"/>
     
   </entry>
   
